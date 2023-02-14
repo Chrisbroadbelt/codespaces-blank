@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>New Vision Inc Property Management</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <header>
+      <h1>New Vision Inc Property Management</h1>
+      <nav>
+        <ul>
+          <li><a href="#rental-properties">Rental Properties</a></li>
+          <li><a href="#property-for-sale">Property for Sale</a></li>
+          <li><a href="#what-we-offer">What We Offer</a></li>
+          <li><a href="#property-cost-analysis">Property Cost Analysis</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="rental-properties">
+        <h2>Rental Properties</h2>
+        <p>New Vision Inc Property Management offers a wide range of rental properties in Gingerland, Nevis, and the surrounding areas. Our properties are well-maintained and come with top-notch amenities, making them the perfect choice for anyone looking for a comfortable and affordable home.</p>
+      </section>
+      <section id="property-for-sale">
+        <h2>Property for Sale</h2>
+        <p>If you're in the market for a new home, New Vision Inc Property Management can help. Our expert real estate agents are knowledgeable about the local market and can help you find the perfect property to suit your needs and budget.</p>
+      </section>
+      <section id="what-we-offer">
+        <h2>What We Offer</h2>
+        <p>New Vision Inc Property Management offers a range of services designed to make owning and managing property a breeze. From property management and maintenance to real estate sales and cost analysis, our team is here to help you every step of the way.</p>
+      </section>
+      <section id="property-cost-analysis">
+        <h2>Property Cost Analysis</h2>
+        <p>If you're considering buying or selling property, it's important to have a clear understanding of the costs involved. New Vision Inc Property Management can help by providing you with a detailed cost analysis, including estimated expenses like taxes, insurance, and maintenance costs.</p>
+      </section>
+    </main>
+    <footer>
+      <p>New Vision Inc Property Management - Gingerland, Nevis, St Kitts and Nevis</p>
+      <p>Telephone: 186-9762-9776</p>
+    </footer>
+  </body>
+</html>
